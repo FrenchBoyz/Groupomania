@@ -26,7 +26,7 @@ Mettre en place une infrastructure de déploiement et de gestion de l'applicatio
 
 
 
-Instruction 
+<h2>Instruction </h2>
 
 
 se rendre dans le dossier en ligne de commande dossier front-end puis exectuter la commande :  "npm install"
